@@ -1,0 +1,6 @@
+{
+	"ImportPath": "ga-beacon",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v60",
+	"Deps": []
+}
