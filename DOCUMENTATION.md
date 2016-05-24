@@ -1,4 +1,4 @@
-# Google Analytics Beacon [![.](https://gaproxy.gstack.io/UA-74118635-2/github.com/gstackio/ga-beacon/documentation?pixel)](https://github.com/gstackio/ga-beacon)
+# Google Analytics Beacon [![.](http://gaproxy.gstack.io/UA-74118635-2/github.com/gstackio/ga-beacon/documentation?pixel)](https://github.com/gstackio/ga-beacon)
 
 Sometimes it is impossible to embed the JavaScript tracking code provided by Google Analytics: the host page does not allow arbitrary JavaScript, and there is no Google Analytics integration. However, not all is lost! **If you can embed a simple image (pixel tracker), then you can beacon data to Google Analytics.** For a great, hands-on explanation of how this works, check out the following guides:
 

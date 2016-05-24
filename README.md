@@ -1,4 +1,4 @@
-# GA Beacon for Cloud Foundry [![.](https://gaproxy.gstack.io/UA-74118635-2/github.com/gstackio/ga-beacon/readme?pixel)](https://github.com/gstackio/ga-beacon)
+# GA Beacon for Cloud Foundry [![.](http://gaproxy.gstack.io/UA-74118635-2/github.com/gstackio/ga-beacon/readme?pixel)](https://github.com/gstackio/ga-beacon)
 
 This project is an adaptation of the
 [original GA Beacon](https://github.com/igrigorik/ga-beacon) code for use in
