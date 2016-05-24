@@ -7,7 +7,6 @@ applications:
       GO15VENDOREXPERIMENT: 0
     memory: 16M
     disk_quota: 256M
-    command: ga-beacon
     instances: 2
     host: gaproxy
     domain: gstack.io
