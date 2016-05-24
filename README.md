@@ -7,7 +7,7 @@ Heroku with few work. (Instead of GAE-compatible clouds like
 [Google App Engine](https://cloud.google.com/appengine/)
 or [AppScale](https://github.com/AppScale/appscale).)
 
-The point is to trigger Google Analytics hits in situation where JavaScript
+The point is to trigger Google Analytics hits in contexts where JavaScript
 code cannot be embedded, like in emails, in Github `README.md` files or in
 Google Docs, Slides or Spreadsheets. More information about this can be found
 in the original documentation at [DOCUMENTATION.md](DOCUMENTATION.md).
