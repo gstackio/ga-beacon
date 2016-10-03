@@ -23,13 +23,13 @@ Next, add a tracking image to the pages you want to track:
 Example tracker markup if you are using Markdown:
 
 ```markdown
-[![Analytics](https://ga-beacon.appspot.com/UA-XXXXX-X/welcome-page)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://gaproxy.gstack.io/UA-XXXXX-X/welcome-page)](https://github.com/gstackio/ga-beacon)
 ```
 
 Or RDoc:
 
 ```rdoc
-{<img src="https://ga-beacon.appspot.com/UA-XXXXX-X/welcome-page" />}[https://github.com/igrigorik/ga-beacon]
+{<img src="https://gaproxy.gstack.io/UA-XXXXX-X/welcome-page" />}[https://github.com/gstackio/ga-beacon]
 ```
 
 If you prefer, you can skip the badge and use a transparent pixel. To do so, simply append `?pixel` to the image URL. There are also "flat" style variants available, which are available when appending `?flat` or `?flat-gif` to the image URL. And that's it, add the tracker image to the pages you want to track and then head to your Google Analytics account to see real-time and aggregated visit analytics for your projects!
